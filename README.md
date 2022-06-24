@@ -1,7 +1,7 @@
 
-#Desafio de Projeto da DIO
+# Desafio de Projeto da DIO
 
-##Estudos até aqui:
+## Estudos até aqui:
 
 - Algoritmos
 - Git e GitHub
